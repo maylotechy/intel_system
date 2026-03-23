@@ -1,7 +1,6 @@
 Assignment: Optimization and Decision Models
 1. Genetic Algorithm (GA)
 Description: A search heuristic inspired by Charles Darwin’s theory of natural evolution. It evolves a population of candidate solutions toward an optimal result using three main operators: Selection (choosing the fittest), Crossover (combining parents), and Mutation (introducing random changes).
-
 Examples:
 Logistics: Optimizing the shortest delivery route for a fleet of vehicles (Traveling Salesman Problem).
 Engineering: Designing high-performance airfoil shapes for aircraft wings to minimize drag.
